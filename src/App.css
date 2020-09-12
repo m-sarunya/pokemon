@@ -1,0 +1,10 @@
+.App {
+  padding: 10px;
+  overflow-y: scroll;
+  height: 670px;
+}
+.positionBtnModal {
+  position: absolute;
+  bottom: 10px;
+  margin: auto;
+}
